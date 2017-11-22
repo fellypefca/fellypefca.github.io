@@ -55,7 +55,7 @@ p {
   background: #4B6A78;
   position: absolute;
   left: 0;
-  width: 270px;
+  width: 280px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -64,7 +64,7 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .profile-container {
-  padding: 30px;
+  padding: 35px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
   color: #fff;
@@ -86,30 +86,30 @@ p {
   margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list .fa {
-  margin-right: 5px;
-  font-size: 18px;
+  margin-right: 14px;
+  font-size: 16px;
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list.dois li {
   margin-top: 10px;
   display: block;
   float: left;
-  margin-right: 18px;
+  margin-right: 8px;
 }
 .sidebar-wrapper .contact-list.dois li:last-child {
   margin-right: 0px;
 }
 .sidebar-wrapper .contact-list.dois .fa {
-  font-size: 35px;
+  font-size: 25px;
 }
 .sidebar-wrapper .contact-list li {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
 }
 .sidebar-wrapper .contact-list .email .fa {
-  font-size: 5px;
+  font-size: 15px;
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
@@ -118,7 +118,7 @@ p {
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 700;
-  margin-top: 0;
+  margin-top: 40px;
   margin-bottom: 15px;
 }
 .sidebar-wrapper .degree {
